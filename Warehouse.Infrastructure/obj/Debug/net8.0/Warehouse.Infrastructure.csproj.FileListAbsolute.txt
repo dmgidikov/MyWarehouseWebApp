@@ -9,3 +9,4 @@ C:\Users\Deyan\Documents\Coding\Visual Studio\C#WebFundamentals\Warehouse\Wareho
 C:\Users\Deyan\Documents\Coding\Visual Studio\C#WebFundamentals\Warehouse\Warehouse.Infrastructure\obj\Debug\net8.0\refint\Warehouse.Infrastructure.dll
 C:\Users\Deyan\Documents\Coding\Visual Studio\C#WebFundamentals\Warehouse\Warehouse.Infrastructure\obj\Debug\net8.0\Warehouse.Infrastructure.pdb
 C:\Users\Deyan\Documents\Coding\Visual Studio\C#WebFundamentals\Warehouse\Warehouse.Infrastructure\obj\Debug\net8.0\ref\Warehouse.Infrastructure.dll
+C:\Users\Deyan\Documents\Coding\Visual Studio\C#WebFundamentals\Warehouse\Warehouse.Infrastructure\obj\Debug\net8.0\Warehouse.Infrastructure.csproj.AssemblyReference.cache

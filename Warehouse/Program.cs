@@ -1,9 +1,9 @@
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using Warehouse.Data;
-
 namespace Warehouse
 {
+    using Data;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.AspNetCore.Identity;
+
     public class Program
     {
         public static void Main(string[] args)
@@ -39,6 +39,7 @@ namespace Warehouse
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(
